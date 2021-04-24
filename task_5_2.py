@@ -1,0 +1,11 @@
+odd_nums = (num for num in range(1, 15 + 1) if num % 2 != 0)
+
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
